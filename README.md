@@ -22,7 +22,7 @@ I’ve always loved digging into data to find the hidden patterns and outliers t
 
 - Excel (PivotTables, Power Query, Power Pivot, DAX)
 - SQL (MySQL)
-- Power BI(Power query editor, DAX)
+- Power BI (Power query editor, DAX)
 - Python (Pandas, NumPy, Matplotlib)
 - Data storytelling · Dashboard design · Data modeling
 
@@ -42,8 +42,8 @@ Analyzed campaign performance for an e-commerce marketing dataset, surfacing con
 
 ## 📜 Certifications
 
-- [ALX Data Analytics Certificate](https://savanna.alxafrica.com/certificates/SLZ7hMGnYm)
-- 
+- [ALX Data Analytics Certificate](https://savanna.alxafrica.com/certificates/SLZ7hMGnYm) | ALX Africa
+- Data Analytics Training | Kenya ICT Authority x Sigma Technical Institute 
 
 ---
 
