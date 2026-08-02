@@ -20,11 +20,11 @@ I’ve always loved digging into data to find the hidden patterns and outliers t
 
 ## 🛠️ Skills
 
-Excel (PivotTables, Power Query, Power Pivot, DAX)
-SQL (MySQL)
-Power BI(Power query editor, DAX)
-Python (Pandas, NumPy, Matplotlib)
-Data storytelling · Dashboard design · Data modeling
+- Excel (PivotTables, Power Query, Power Pivot, DAX)
+- SQL (MySQL)
+- Power BI(Power query editor, DAX)
+- Python (Pandas, NumPy, Matplotlib)
+- Data storytelling · Dashboard design · Data modeling
 
 ---
 
