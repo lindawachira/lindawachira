@@ -38,6 +38,10 @@ Diagnosed the drivers behind a $318M loan portfolio's risk profile — uncoverin
 Analyzed campaign performance for an e-commerce marketing dataset, surfacing conversion and engagement patterns to guide spend decisions.
 `Tools: MySQL, Power BI`
 
+### [Electronic Products Analysis: An Exploratory Data Analysis](https://github.com/lindawachira/data-analysis-projects/blob/main/Electronic%20Products%20EDA%20Analysis/README.md)
+Explored a 10,000-row e-commerce product catalog to uncover pricing patterns, stock availability gaps, and which categories hold the most inventory value.
+`Tools: Excel`
+
 ---
 
 ## 📜 Certifications
