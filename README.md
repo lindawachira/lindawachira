@@ -30,11 +30,16 @@ I’ve always loved digging into data to find the hidden patterns and outliers t
 
 ## 📊 Featured Projects
 
+### [Sales & Profit Performance Analytics: Northgate Retail Supply Co.](https://github.com/lindawachira/data-analysis-projects/tree/main/Sales%20%26%20Profit%20Performance%20Analytics)
+Diagnosed profit and discount performance across a 4-year retail dataset, uncovering where sales growth wasn't translating into profit.
+`Tools: MySQL, Power BI`
+
+
 ### [Loan Portfolio Risk & Profitability Analytics](https://github.com/lindawachira/data-analysis-projects/tree/main/Loan%20portfolio%20risk%20%26%20profitability%20analytics)
-Diagnosed the drivers behind a $318M loan portfolio's risk profile — uncovering that its core profit engine was secretly its biggest liability, and informing a new underwriting strategy.
+Diagnosed the drivers behind a $318M loan portfolio's risk profile, uncovering that its core profit engine was secretly its biggest liability and informing a new underwriting strategy.
 `Tools: Excel, Power BI`
 
-### [Marketing Analytics for E-commerce Growth (iFood)](https://github.com/lindawachira/data-analysis-projects/tree/main/iFood%20Marketing%20Campaign%20Analysis)
+### [Marketing Analytics for E-commerce Growth](https://github.com/lindawachira/data-analysis-projects/tree/main/iFood%20Marketing%20Campaign%20Analysis)
 Analyzed campaign performance for an e-commerce marketing dataset, surfacing conversion and engagement patterns to guide spend decisions.
 `Tools: MySQL, Power BI`
 
