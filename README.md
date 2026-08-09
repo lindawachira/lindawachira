@@ -2,7 +2,7 @@
 
 I’ve always loved digging into data to find the hidden patterns and outliers that others might miss. With my IT background, I’ve turned that curiosity into a career building end-to-end data solutions for real-world problems. Whether I'm querying in SQL/MySQL, scripting in Python, or building dashboards in Excel and Power BI, I love turning messy data into clear answers.
 
-📄 **[View my CV](PASTE_GOOGLE_DRIVE_LINK_HERE)**
+📄 **[View my CV](https://drive.google.com/file/d/1_2NZ_aNejqZL1vmYCUVvOHlA1ne4Z6mD/view?usp=sharing)**
 
 ---
 
@@ -52,7 +52,8 @@ Explored a 10,000-row e-commerce product catalog to uncover pricing patterns, st
 ## 📜 Certifications
 
 - [ALX Data Analytics Certificate](https://savanna.alxafrica.com/certificates/SLZ7hMGnYm) | ALX Africa
-- Data Analytics Training | Kenya ICT Authority x Sigma Technical Institute 
+- Data Analytics Training | Kenya ICT Authority x Sigma Digital Technical Institute
+- Introduction to Python | Data Quest
 
 ---
 
