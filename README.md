@@ -2,7 +2,7 @@
 
 I’ve always loved digging into data to find the hidden patterns and outliers that others might miss. With my IT background, I’ve turned that curiosity into a career building end-to-end data solutions for real-world problems. Whether I'm querying in SQL/MySQL, scripting in Python, or building dashboards in Excel and Power BI, I love turning messy data into clear answers.
 
-📄 **[View my CV](https://drive.google.com/file/d/10t1XEyzo9yiHqpy3Z879IFqsrxrIfxp7/view?usp=sharing)**
+📄 **[View my CV](https://drive.google.com/file/d/1CS--dOPJYQPqsHdYdUVdFjJbTY4j14Qo/view?usp=sharing)**
 
 ---
 
