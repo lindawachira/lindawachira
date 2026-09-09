@@ -35,7 +35,7 @@ I've always loved digging into data to find the hidden patterns and outliers tha
 
 ### [Sales & Profitability Business Intelligence Analysis: Pinnacle Retail Enterprise](https://github.com/lindawachira/data-analysis-projects/tree/main/Sales%20%26%20Profit%20Performance%20Analytics)
 Traced $156K in margin leakage across four years of retail sales to aggressive discounting, loss-making products, and regional inefficiencies, then modeled a recovery plan projecting a 27% increase in profit.
-`Tools: MySQL, Excel (Power Pivot, DAX, PivotTables)`
+`Tools: Excel, MySQL, Power BI, Powerpoint(Reporting)`
 
 ### [County Health Analysis: Diseases, Revenue & Treatment Outcomes](https://github.com/lindawachira/data-analysis-projects/tree/main/County%20Health%20Analytics)
 Analyzed $2.63M in patient revenue and 198 patient visit records across 5 Kenyan counties, uncovering data quality gaps and revenue disparities tied to insurance coverage, and translating findings into resource allocation recommendations.
