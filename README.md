@@ -15,7 +15,7 @@ I've always loved digging into data to find the hidden patterns and outliers tha
 
 📈 **Business Intelligence** — I build DAX-driven data models and profitability analyses that translate raw numbers into clear, decision-ready insights.
 
-📊 **Data Visualization** — I build interactive, stakeholder-ready dashboards using Power BI, Excel, and Tableau.
+📊 **Data Visualization** — I build interactive, stakeholder-ready dashboards using Excel and Power BI.
 
 🗃️ **Database & Reporting** — I write optimized SQL queries, organize relational data models, and design reports for both technical and non-technical audiences.
 
@@ -25,7 +25,7 @@ I've always loved digging into data to find the hidden patterns and outliers tha
 
 - Excel (PivotTables, Power Query, Power Pivot, DAX, VLOOKUPS, XLOOKUPS, FORMULAS)
 - SQL (MySQL)
-- Power BI (Power Query Editor, DAX)
+- Power BI (Power Query, DAX)
 - Python (Pandas, NumPy, Matplotlib)
 - Business Intelligence · Data storytelling · Dashboard design · Data modeling
 
