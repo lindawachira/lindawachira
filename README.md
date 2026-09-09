@@ -1,5 +1,4 @@
 # 👋🏾 Hi, I'm Linda Wachira
----
 **Data & BI Analyst | Bridging Data and Strategy | Excel · SQL · Power BI**
 ---
 I've always loved digging into data to find the hidden patterns and outliers that others might miss. With my IT background, I've turned that curiosity into a career building end-to-end data solutions and business intelligence for real-world problems. Whether I'm querying in SQL, building BI dashboards in Excel and Power BI or scripting in Python, I love turning messy data into clear answers.
